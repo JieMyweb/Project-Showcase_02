@@ -1,0 +1,6 @@
+@Gis_Api_HostAddress = http://localhost:5243
+
+GET {{Gis_Api_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
